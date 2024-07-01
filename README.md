@@ -10,7 +10,7 @@
     <br />
     <br />
     <br />
-    <a href="https://github.com/nuriguney/NUR-AI">View Source Codes</a>
+    <a href="https://github.com/nuriguney/NUR-AI-ChatBot">View Source Codes</a>
   </p>
 </div>
 
